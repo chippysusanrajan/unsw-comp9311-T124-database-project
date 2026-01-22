@@ -14,8 +14,8 @@ The system models students, staff, courses, programs, enrolments, and facilities
 * Produce results compatible with automated testing
 
 🗂️ Dataset  
-Database: MyMyUNSW
-Size: Large, production-style academic database
+Database: MyMyUNSW  
+Size: Large, production-style academic database  
 Domain Entities:
     * Students, Staff, Courses, Programs
     * Enrolments, Grades, Semesters
@@ -46,6 +46,7 @@ Domain Entities:
   * Ranks a student within a course based on marks
   * Handles ties using PostgreSQL window functions
   * Validates prerequisite relationships and edge cases
+    
 🔹 Program-wise WAM Calculation
   * Calculates WAM per program per student
   * Applies complex grading rules (pass/fail, excluded grades)
@@ -73,7 +74,7 @@ Domain Entities:
 * Performance-aware database programming
 * Translating business rules into database logic
 
-📎 Notes
+📎 Notes  
 This project simulates real-world challenges found in:
    * University administration systems
    * Enterprise databases
