@@ -75,6 +75,8 @@ Domain Entities:
      * Tied rankings
      * Invalid inputs
 
+📄 Detailed SQL & PL/pgSQL explanations and implementations:  
+👉 [SQL Solutions](sql-solutions.md)
    
 🚀 Skills Demonstrated
 * Relational data modelling
